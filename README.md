@@ -1,4 +1,4 @@
-# Technical-Writing-Project-2024 🖋️💻
+# Technical-Writing-Presentation-Project-2024 🖋️💻
 
 <br>
 
