@@ -1,4 +1,4 @@
-<h2>Instructions ⚙️</h2>  
+<h2>Instructions </h2>  
 
 1.) Download the report.zip file                                   <br>
 2.) Log into Overleaf                                              <br>
